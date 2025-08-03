@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=04C42B&size=30&center=true&lines=Holaaa+soy+Ulises;Y+me+encanta+la+compu;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=04C42B&size=30&center=false&lines=Holaaa+soy+Ulises;Y+me+encanta+la+compu;" />
 </div>
 
 <br/>
