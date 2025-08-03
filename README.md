@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=04C42B&size=30&center=false&lines=Holaaa+soy+Ulises;Y+me+encanta+la+compu;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=04C42B&size=30&center=false&lines=Holaaa+soy+Ulises;Y+me+encantan+las+compus;=)" />
 </p>
 
 <br/>
