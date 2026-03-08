@@ -9,10 +9,9 @@
 
 <p align="center">
 
-<img src="assets/chatgptball.png" width="80">
+<img src="assets/chatgptball.png" width="80" title="Chatgpt">
 
-<img src="assets/geminiball.png" width="80">
+<img src="assets/geminiball.png" width="80" title="Gemini">
 
-<img src="assets/copilotball.png" width="80">
-
+<img src="assets/copilotball.png" width="80" title="GitHub Copilot">
 </p>
