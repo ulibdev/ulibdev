@@ -1,6 +1,6 @@
 #
 <p align="center">
-  <img src="assets/holasoyulises.png" width="35" alt="HOLA SOY ULISES👋">
+  <img src="assets/holasoyulises.png" alt="HOLA SOY ULISES👋">
 </p>
 
 <h1 align="center">
